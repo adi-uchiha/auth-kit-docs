@@ -10,7 +10,7 @@ const config = {
   tagline: '🔑 Authentication Library for React Js for Token Based Auth with Json Web Token(JWT) 🔑',
   url: 'https://authkit.arkadip.dev',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
