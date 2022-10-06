@@ -16,7 +16,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'React Auth Kit', // Usually your GitHub org/user name.
+  organizationName: 'react-auth-kit', // Usually your GitHub org/user name.
   projectName: 'react-auth-kit', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -112,7 +112,7 @@ const config = {
               
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/react-auth-kit/react-auth-kit',
               },
             ],
           },
